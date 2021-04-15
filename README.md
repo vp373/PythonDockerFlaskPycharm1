@@ -5,3 +5,5 @@ This project is a homework assignment to teach how to get Pycharm setup with Doc
 ![postman request output](screenshots/postman.png)
 # SQL Data Screenshot
 ![pycharm data query](screenshots/query.png)
+# Assignment 2: Web Interface Screenshot
+![pycharm data query](screenshots/Assignment2.png)
